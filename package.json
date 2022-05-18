@@ -1,0 +1,16 @@
+{
+  "name": "exercise_sass_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "live-server dist css",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "live-server": "^1.2.2"
+  }
+}
